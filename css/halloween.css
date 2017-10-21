@@ -6,7 +6,7 @@ header .header-logo:after{ background: #555;}
 .modal-cuz .modal-content:before{ content: ""; width: 100px; height: 100px; left: 10px; top: -70px; background-image: url(../images/halloween/hl-icon.png); position: absolute; background-position: 50% 25%; background-size: cover;}
 #menu ul.top-menu li a{ color: #ddd;}
 #logo{ background-image: url(../images/halloween/gomovies-logo.gif);}
-.home-main .hm-logo a{background-image: url("../images/halloween/gomovies-logo.png") !important;;}
+.home-main .hm-logo a{background-image: url("../images/halloween/gomovies-logo.gif") !important;;}
 .movies-list-wrap .ml-title .nav-tabs li a{ color: #ddd;}
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover, .nav > li > a:hover, .nav > li > a:focus{ background-color: #40444D !important; border-radius: 3px;}
 #menu .sub-container{ background: #1E212A !important; border-left: none; border-bottom: none; border-right: none;}
