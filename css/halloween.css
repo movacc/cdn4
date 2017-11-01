@@ -106,7 +106,7 @@ footer:before{ content: ""; width: 100%; height: 200px; background: url(../image
 #list-eps .le-server .les-content .btn-eps{ background: #40444D; border-color: #32353d;}
 .btn-successful, .btn-successful:hover, .btn-successful:focus, #list-eps .le-server .les-content .btn-eps.active{ background: #F48625 !important; border-color: #d8761f !important;}
 .btn-successful:hover{ opacity: 0.9;}
-
+.page-404 {background: url(../images/404.png) bottom center no-repeat;margin-bottom: 0;width: 100%;height: 0}
 .box .box-head .nav-tabs li.active a{ background: #F48625 !important; border-radius: 0;}
 .pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover{ background: #F48625;}
 .pagination > li > a, .pagination > li > span{ background: #40444D;}
